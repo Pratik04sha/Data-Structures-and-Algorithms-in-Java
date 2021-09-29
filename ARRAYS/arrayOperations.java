@@ -1,5 +1,3 @@
-package Udemy;
-
 public class arrayOperations {
     int[] arr= null;
 
