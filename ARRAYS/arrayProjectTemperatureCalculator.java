@@ -1,4 +1,3 @@
-package Udemy;
 import java.util.Scanner;
 public class arrayProjectTemperatureCalculator {
     public static void main(String[] args) {
