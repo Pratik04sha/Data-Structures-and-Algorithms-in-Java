@@ -1,3 +1,5 @@
+// QUESTION: Find	the	minimum	and	maximum	element	in	an	array.
+
 package Practice;
 import java.util.Scanner;
 public class MaxMin {
