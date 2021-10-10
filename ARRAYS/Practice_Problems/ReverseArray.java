@@ -1,3 +1,5 @@
+// QUESTION: Write	a	program	to	reverse	the	array.
+
 package Practice;
 import java.util.Scanner;
 public class ReverseArray {
