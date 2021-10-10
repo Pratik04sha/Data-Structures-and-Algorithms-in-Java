@@ -1,3 +1,5 @@
+// QUESTION: Given	an	number	n.	Find	the	number	of	occurrences	of	n	in	the	array.	
+
 package Practice;
 import java.util.Scanner;
 public class Occurrence {
