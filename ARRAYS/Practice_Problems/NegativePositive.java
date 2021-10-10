@@ -1,3 +1,5 @@
+// QUESTION: Move	all	the	negative	elements	to	one	side	of	the	array.
+
 package Practice;
 import java.util.Scanner;
 public class NegativePositive {
