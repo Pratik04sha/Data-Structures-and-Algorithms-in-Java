@@ -1,3 +1,5 @@
+//QUESTION: Write	a	program	to	sort	the	given	array.	
+
 package Practice;
 import java.util.Scanner;
 public class SortArray {
