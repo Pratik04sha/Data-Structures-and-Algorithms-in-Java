@@ -1,3 +1,8 @@
+// Check	whether	n	is	present	in	an	array	of	size	m	or	not.	
+// Input	-		n,m	(Input	number,	size	of	array)-		Take	input	n	elements	for	the	array
+// Output	->	true/false
+
+
 package Practice;
 import java.util.Scanner;
 public class CheckElement {
