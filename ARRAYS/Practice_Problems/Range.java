@@ -1,3 +1,5 @@
+// QUESTION: Find	the	range	of	the	array.	Range	means	the	difference	between	the	maximum	and	minimum	element	in	the	array.
+
 package Practice;
 import java.util.Scanner;
 public class Range {
