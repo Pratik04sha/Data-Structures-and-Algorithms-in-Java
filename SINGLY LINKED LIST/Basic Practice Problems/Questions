@@ -1,0 +1,22 @@
+Q1. Create	a	Singly	Linked	list	class	(members->	value	and	next	pointer),	with	the	following	methods:
+    a)createNewNode()
+    b)addNodeAtBegin()
+    c)addNodeAtEnd()
+    d)length()
+    e)print()
+
+Q2. Create	a	method	to	search	an	element	in	the	above	created	linked	list
+
+Q3. Create	a	method	to	delete	any	Element	in	the above	create	linked	list
+
+Q4. Create	a	method	to	provide	the	“Nth”	Node	from	the	above	created	linked	list.
+
+Q5. Create	a	method	to	Count	the	numbers	of	a	specific	value	in	the	above	created	linked	list
+
+Q6. Find	the	minimum	and	maximum	element	in	the	linked	list.
+
+Q7. Convert	the	above	created	linked	list	into	a	Circular	Linked	List.
+
+Q8. Create	 a	Doubly	 Linked	list	 and	 perform	 all	 the	 operations	 that	were	done	on	the	above	singly	linked	list.
+
+Q9. After	performing	all	the	above	operations	convert	the	above	created	DLL	into	a	Circular	doubly	Linked	list
