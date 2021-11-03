@@ -8,3 +8,4 @@ Various types of Data Structures and Algorithms in Java programming language
 5. Circular Doubly Linked List
 6. Stacks
 7. Queues
+8. Trees
