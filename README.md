@@ -9,3 +9,6 @@ Various types of Data Structures and Algorithms in Java programming language
 6. Stacks
 7. Queues
 8. Trees
+9. AVL Trees
+10. Binary Heap
+11. Trie
