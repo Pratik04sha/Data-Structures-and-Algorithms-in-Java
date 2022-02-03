@@ -13,3 +13,6 @@ Various types of Data Structures and Algorithms in Java programming language
 10. Binary Heap
 11. Trie
 12. Hashing
+13. Divide and Conquer Algorithms
+14. Greedy Algorithms
+15. Dynammic Programming
